@@ -1,0 +1,109 @@
+baseurl = "http://semanadasengenharias.com/2017"
+title = "3ª Semana das Engenharias (2017)"
+languageCode = "pt-br"
+
+
+theme = "hugo-creative-theme"
+googleAnalytics = ""
+
+[params]
+# To provide some metadata for search engines feel free to add some
+# information about you and your website.
+name = "UACSA"
+description = "Site do evento Semana das Engenharias, promovido pela Universidade Federal Rural de Pernambuco - Cabo de Santo Agostinho"
+
+# The path must be relative to the static folder
+favicon = "favicon.ico"
+
+# You can use Markdown syntax for urls [text](//url.to/source) for
+# most longer texts.
+
+# All icons using Fontawesome's icon font. Look at http://fontawesome.io/icons/
+# for more icons. The icons are represented by their corresponding
+# CSS class.
+
+# All projects of the portfolio are defined in their own files.
+# You can find example projects at 'exampleSite/data/projects'. Copy the 'projects'
+# folder into the 'data' directory at the root of this Hugo site.
+# For more information take a look at the README.
+
+
+
+
+# Navigation
+[params.navigation]
+brand = "Semana das Engenharias"
+
+[params.navigation.links]
+about     = "Sobre"
+services  = "Mini-cursos"
+portfolio = "Palestrantes"
+contact = "Comissão"
+
+# Hero section
+[params.hero]
+# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
+slogan     = "3ª Semana das Engenharias"
+subtitle   = '9 a 11 de outubro de 2017'
+#buttonText = "Find out more"
+
+# Service section
+[params.services]
+headline = "Mini-cursos"
+
+[[params.services.list]]
+icon = "fa-pencil"
+title = "Um despertar ao REVIT através de uma abordagem prática"
+description = "Alceu Câmara"
+
+[[params.services.list]]
+icon = "fa-paper-plane"
+title = "Mini-curso 2"
+description = "..."
+
+[[params.services.list]]
+icon = "fa-newspaper-o"
+title = "Mini-curso 3"
+description = "..."
+
+[[params.services.list]]
+icon = "fa-braille"
+title = "Mini-curso 4"
+description = "..."
+
+# Portfolio modals
+[params.portfolio]
+headline = "Palestrantes"
+[params.portfolio.modal]
+client = "Client"
+date = "Date"
+category = "Palestrante"
+buttonText = "Fechar"
+
+# Aside section
+[params.aside]
+headline = "Submissão de trabalhos"
+
+[params.aside.button]
+text = "submissão ainda não disponível"
+link = "/"
+
+# About section
+[params.about]
+headline    = "Sobre o evento"
+description = "A Semana das Engenharias da UACSA, em sua terceira edição, apresentará um caráter mais abrangente, contemplando o II Congresso de Engenharias da UACSA. Este evento reafirma o caráter interdisciplinar da Unidade ao propor uma programação diversificada, contando com a participação de profissionais das mais diversas áreas da Engenharia ligados a instituições do país e do exterior. Além da comunidade acadêmica, os profissionais que trabalham nas indústrias dos arredores também serão motivados a apresentar seus trabalhos no Congresso e a contribuir em mesas-redondas, palestras e minicursos do evento. Com o objetivo de estimular a participação ativa dos estudantes de graduação da UACSA, a III Semana das Engenharias também contará com a apresentação de projetos desenvolvidos pelos alunos de graduação da Unidade e com competições/desafios acadêmicos."
+#buttonText  = "Get started!"
+
+# Contact section
+[params.contact]
+headline = "Comissão organizadora"
+description = "A ser definida."
+phone = "+55 81 3512 5820"
+email = "email a ser definido"
+#email = "seeng2017@gmail.com"
+
+# Google Maps section
+# [params.location]
+# 	latitude  = "34.007850"
+# 	longitude = "-118.499305"
+# 	maps_api_key = ""
