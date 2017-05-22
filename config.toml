@@ -43,8 +43,11 @@ contact = "Comissão"
 # Hero section
 [params.hero]
 # To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
-slogan     = "3ª Semana das Engenharias"
-subtitle   = '9 a 11 de outubro de 2017'
+# slogan     = "3ª Semana das Engenharias"
+# subtitle   = '9 a 11 de outubro de 2017'
+
+slogan     = ""
+subtitle   = ''
 #buttonText = "Find out more"
 
 # Service section
