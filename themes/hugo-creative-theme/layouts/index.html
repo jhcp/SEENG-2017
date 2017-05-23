@@ -16,9 +16,13 @@
             {{ partial "about.html" . }}
         {{ end }}
 
+          {{ partial "inscricoes.md" . }}
+
         {{ if .Site.Params.services.list }}
             {{ partial "services.html" . }}
         {{ end }}
+
+
 
         {{ if .Site.Data.palestrantes }}
             {{ partial "portfolio.html" . }}

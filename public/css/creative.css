@@ -190,7 +190,9 @@ aside {
 }
 
 .header-content {
-    background-color: white;
+    background-color: #f9f8f8;
+    background-image: url("../img/pattern.png");
+    background-repeat: repeat;
     color: #555555;
     position: relative;
     width: 100%;
@@ -455,13 +457,13 @@ fieldset[disabled] .btn-primary.active {
 ::-moz-selection {
     text-shadow: none;
     color: #fff;
-    background: #222;
+    background: #278F83;
 }
 
 ::selection {
     text-shadow: none;
     color: #fff;
-    background: #222;
+    background: #278F83;
 }
 
 img::selection {
@@ -482,4 +484,10 @@ body {
     height: 300px;
     overflow: visible;
     position: relative;
+}
+
+#contact {
+  background-color: #f9f8f8;
+  background-image: url("../img/pattern.png");
+  background-repeat: repeat;
 }
