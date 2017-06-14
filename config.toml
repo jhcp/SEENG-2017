@@ -86,6 +86,8 @@ buttonText = "Fechar"
 # Aside section
 [params.aside]
 headline = "Submissão de trabalhos"
+text = "Os artigos para o Congresso de Engenharia devem ser preparados seguindo este modelo: [modelo para Word](coeng.doc) ou [modelo para LaTeX](coeng latex.zip). <br />**Regras:** Os artigos devem ter entre 3 e 5 páginas, já incluindo figuras, tabelas, bibliografia, anexos e apêndices; Podem ser submetidos em português ou em inglês; Devem ser submetidos no formato .pdf; Os artigos de ensino/extensão devem estar ligados às engenharias; Os artigos de pesquisa devem se enquadrar nas áreas de Eng. Civil, Mecânica, Materiais, Elétrica e Eletrônica, detalhadas a seguir:"
+list = "**a) Engenharia Civil:**        - Construção Civil        - Estruturas        - Geotécnica        - Engenharia Hidráulica        - Infra-estrutura de Transportes <br />**b) Engenharia de Materiais e Metalúrgica:**        - Instalações e Equipamentos Metalúrgicos        - Metalurgia Extrativa        - Metalurgia de Transformação        - Metalurgia Fisica        - Materiais não Metálicos <br />**c) Engenharia Mecânica**        - Fenômenos de Transportes        - Engenharia Térmica         - Mecânica dos Sólidos        - Projeto de Máquinas        - Processos de Fabricação <br />**d) Engenharia Elétrica e Eletrônica**        - Materiais Elétricos        - Medidas Elétricas, Magnéticas e Eletrônicas; Instrumentação        - Circuitos Elétricos, Magnéticos e Eletrônicos        - Sistemas Elétricos de Potência        - Eletrônica Industrial, Sistemas e Controles Eletrônicos        - Telecomunicações"
 
 [params.aside.button]
 text = "submissão ainda não disponível"
