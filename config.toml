@@ -55,24 +55,34 @@ subtitle   = ''
 headline = "Mini-cursos"
 
 [[params.services.list]]
-icon = "fa-pencil"
-title = "Um despertar ao REVIT através de uma abordagem prática"
-description = "Alceu Câmara"
+icon = "fa-code"
+title = "Introdução à programação para projetos de Engenharia"
+description = "Igor Henrique Ferreira Moreno Pinheiro da Silva"
 
 [[params.services.list]]
-icon = "fa-paper-plane"
-title = "Mini-curso 2"
-description = "..."
+icon = "fa-microchip"
+title = "Internet Of the Things"
+description = "Lucas Humenhuk"
 
 [[params.services.list]]
-icon = "fa-newspaper-o"
-title = "Mini-curso 3"
-description = "..."
+icon = "fa-envira"
+title = "Gestão Ambiental para grandes Empreendimentos"
+description = "Sergio Maffioletti"
 
 [[params.services.list]]
-icon = "fa-braille"
-title = "Mini-curso 4"
-description = "..."
+icon = "fa-bar-chart"
+title = "Análise e detecção de Outliers"
+description = "José Eduardo Ferreira de Oliveira"
+
+[[params.services.list]]
+icon = "fa-building"
+title = "Dimensionamento de pavimento intertravado"
+description = "Martônio José Marques Francelino"
+
+[[params.services.list]]
+icon = "fa-ship"
+title = "Fluidos"
+description = "Vagner Abramchuk"
 
 # Portfolio modals
 [params.portfolio]
