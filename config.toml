@@ -113,9 +113,8 @@ description = "A Semana das Engenharias da UACSA, em sua terceira edição, apre
 [params.contact]
 headline = "Comissão organizadora"
 description = "[Última atualização: 21/05/2017](comissao.pdf)"
-phone = "+55 81 3512 5820"
-email = "email a ser definido"
-#email = "seeng2017@gmail.com"
+phone = "+55 81 3512 5808"
+email = "seeng2017@gmail.com"
 
 # Google Maps section
 # [params.location]
