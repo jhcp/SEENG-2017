@@ -7,6 +7,32 @@
             <br />
             {{ with .Site.Params.aside.list }}<div>{{ . | markdownify }}</div>{{ end }}
             <br />
+
+            <!-- <h4>Datas:</h4><dl>
+            {{ range .Site.Params.aside.dates }}
+              <dt>{{ .date }}</dt><dd>{{ .what }}</dd>
+            {{ end }}
+            </dl> -->
+            <div class="row">
+              <div class="col-lg-6 col-lg-offset-3 text-center">
+            <table class="table">
+            <thead><tr>
+            <th colspan=2>Prazos </th>
+            </tr></thead>
+            <tbody>
+            {{ range .Site.Params.aside.dates }}
+              <tr><td>{{ .date }}</td><td>{{ .what }}</td></tr>
+            {{ end }}
+
+            </tbody>
+            </table>
+
+<br />
+<!-- <div class="alert alert-info" role="alert">
+    <strong>OBS!</strong> Os artigos aceitos deverão ter pelo menos um autor inscrito no evento.
+</div> -->
+</div>
+</div>
             {{ if and .Site.Params.aside.button.link .Site.Params.aside.button.text }}
                 <a href="{{ .Site.Params.aside.button.link }}" class="btn btn-default btn-xl wow tada">{{ .Site.Params.aside.button.text }}</a>
             {{ end }}
