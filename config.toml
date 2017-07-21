@@ -101,15 +101,15 @@ list = "**[REGRAS DE SUBMISSÃO (clique aqui)](regrassubmissao.pdf)**"
 alerta = "oi"
 
 [[params.aside.dates]]
-date = "6 de agosto"
+date = "~~6 de agosto~~ 1 de setembro"
 what = "Submissão dos trabalhos"
 
 [[params.aside.dates]]
-date = "4 de setembro"
+date = "~~4 de setembro~~ 15 de setembro"
 what = "Divulgação dos resultados"
 
 [[params.aside.dates]]
-date = "18 de setembro"
+date = "~~18 de setembro~~ 22 de setembro"
 what = "Envio da versão final dos trabalhos aceitos"
 
 [params.aside.button]

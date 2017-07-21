@@ -21,7 +21,7 @@
             </tr></thead>
             <tbody>
             {{ range .Site.Params.aside.dates }}
-              <tr><td>{{ .date }}</td><td>{{ .what }}</td></tr>
+              <tr><td>{{ .date | markdownify}}</td><td>{{ .what }}</td></tr>
             {{ end }}
 
             </tbody>
