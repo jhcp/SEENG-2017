@@ -90,7 +90,7 @@ modalID = "curso5"
 icon = "fa-building"
 title = "Dimensionamento de pavimento intertravado"
 teacher = "Martônio José Marques Francelino"
-description = "A definir."
+description = "O termo Pavimento Intertravado tem sido usado, frequentemente, de maneira inadvertida para designar qualquer tipo de pavimento cujo revestimento é constituído por peças pré-moldadas de concreto, às vezes restringindo-se a peças com certos formatos e dimensões. Assim sendo, o minicurso irá abordar as normas técnicas relacionada ao sistema e focará no método de dimensionamento da PCA-84. Além das questões diretamente ligadas ao pavimento em si, faz-se, de forma sucinta, um breve relato quanto às características de sustentabilidade que envolvem a aplicação desse tipo de pavimento."
 
 
 [[params.courses.list]]
