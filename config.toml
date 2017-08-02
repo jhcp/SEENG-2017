@@ -51,38 +51,54 @@ subtitle   = ''
 #buttonText = "Find out more"
 
 # Service section
-[params.services]
+[params.courses]
 headline = "Mini-cursos"
+summaryText = "Resumo"
+teacherText = "Instrutor"
+dateText = "Data"
 
-[[params.services.list]]
+[[params.courses.list]]
+modalID = "curso1"
 icon = "fa-code"
 title = "Introdução à programação para projetos de Engenharia"
-description = "Igor Henrique Ferreira Moreno Pinheiro da Silva"
+teacher = "Igor Henrique Ferreira Moreno Pinheiro da Silva"
+description = "A definir."
 
-[[params.services.list]]
+[[params.courses.list]]
+modalID = "curso2"
 icon = "fa-microchip"
 title = "Internet Of the Things"
-description = "Lucas Humenhuk"
+teacher = "Lucas Humenhuk"
+description = "A definir."
 
-[[params.services.list]]
+[[params.courses.list]]
+modalID = "curso3"
 icon = "fa-envira"
 title = "Gestão Ambiental para grandes Empreendimentos"
-description = "Sergio Maffioletti"
+teacher = "Sergio Maffioletti"
+description = "A definir."
 
-[[params.services.list]]
+[[params.courses.list]]
+modalID = "curso4"
 icon = "fa-bar-chart"
 title = "Análise e detecção de Outliers"
-description = "José Eduardo Ferreira de Oliveira"
+teacher = "José Eduardo Ferreira de Oliveira"
+description = "A definir."
 
-[[params.services.list]]
+[[params.courses.list]]
+modalID = "curso5"
 icon = "fa-building"
 title = "Dimensionamento de pavimento intertravado"
-description = "Martônio José Marques Francelino"
+teacher = "Martônio José Marques Francelino"
+description = "A definir."
 
-[[params.services.list]]
+
+[[params.courses.list]]
+modalID = "curso6"
 icon = "fa-ship"
 title = "Fluidos"
-description = "Vagner Abramchuk"
+teacher = "Vagner Abramchuk"
+description = "A definir."
 
 # Portfolio modals
 [params.portfolio]
