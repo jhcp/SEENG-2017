@@ -74,9 +74,9 @@ description = "A definir."
 [[params.courses.list]]
 modalID = "curso3"
 icon = "fa-envira"
-title = "Gestão Ambiental para grandes Empreendimentos"
+title = "Gestão e Certificação Ambiental Aplicada em Empreendimentos Comerciais"
 teacher = "Sergio Maffioletti"
-description = "A definir."
+description = "1) Conceitos e Aplicação do Sistema de Gestão Ambiental –SGA;<br />2) Conceitos e Aplicação da Certificação Ambiental em Obras e Operação de Empreendimentos Comerciais;<br />3) Descritivo e Aplicação dos Processos, Práticas e Principais Requisitos para Implantação de Obras Sustentáveis."
 
 [[params.courses.list]]
 modalID = "curso4"
