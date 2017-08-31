@@ -104,7 +104,7 @@ description = "Tópicos abordados:<ul><li> Desenvolvimento e dimensionamento;</l
 modalID = "curso7"
 icon = "fa-superpowers"
 title = "Desenvolvendo com a plataforma Arduino"
-teacher = "Júlio de Mesquita Filho"
+teacher = "Roberto Kenji Hiramatsu"
 description = "Neste minicurso será apresentado um passo a passo para desenvolvimento de aplicações. Também, será visto de forma prática alguns princípios para este desenvolvimento e as abordagens para sucesso do desenvolvimento nesta plataforma. Os tópicos práticos básicos abordados são entendimento de entrada/saídas digitais, comunicação serial entre Arduino e computador,  leituras analógicas e interfaceamento com Shields e Sensores."
 
 # Portfolio modals
