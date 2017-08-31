@@ -95,10 +95,17 @@ description = "O termo Pavimento Intertravado tem sido usado, frequentemente, de
 
 [[params.courses.list]]
 modalID = "curso6"
-icon = "fa-ship"
-title = "Fluidos"
+icon = "fa-car"
+title = "Motores de Combustão interna"
 teacher = "Vagner Abramchuk"
-description = "A definir."
+description = "Tópicos abordados:<ul><li> Desenvolvimento e dimensionamento;</li><li> Combustível;</li><li> O futuro do Etanol;</li><li> Carros Elétricos</li></ul>"
+
+[[params.courses.list]]
+modalID = "curso7"
+icon = "fa-superpowers"
+title = "Desenvolvendo com a plataforma Arduino"
+teacher = "Júlio de Mesquita Filho"
+description = "Neste minicurso será apresentado um passo a passo para desenvolvimento de aplicações. Também, será visto de forma prática alguns princípios para este desenvolvimento e as abordagens para sucesso do desenvolvimento nesta plataforma. Os tópicos práticos básicos abordados são entendimento de entrada/saídas digitais, comunicação serial entre Arduino e computador,  leituras analógicas e interfaceamento com Shields e Sensores."
 
 # Portfolio modals
 [params.portfolio]
