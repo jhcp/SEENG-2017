@@ -114,6 +114,13 @@ title = "Introdução a Microcomputadores"
 teacher = "Lucas Hartmann"
 description = "<b>1. Introdução:</b> Na introdução, será apresentado o hardware de um microprocessador e a metodologia de organização de código. <br /><b>2. Periféricos:</b> Apresentação e configuração de entradas e saídas (GPIO) de um microprocessador. <br /><b>3. Aplicação prática:</b> Apresentação e implementação de uma aplicação utilizando entradas e saídas de um microprocessador."
 
+[[params.courses.list]]
+modalID = "curso9"
+icon = "fa-cubes"
+title = "Gerenciamento de Projetos"
+teacher = "Daniel Fernandes e Carlos Figueirôa"
+description = "Apresentaremos os conceitos fundamentais de gerência de projetos, apresentaremos o cenário atual nesta área, as certificações e como o maior instituto de gerenciamento de projetos do mundo, o PMI, pode ajudar no desenvolvimento profissional. Também será realizado fórum de perguntas e respostas com questões envolvendo a tomada de decisões utilizando o gerenciamento de Projetos."
+
 # Portfolio modals
 [params.portfolio]
 headline = "Palestrantes"
