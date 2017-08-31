@@ -107,6 +107,13 @@ title = "Desenvolvendo com a plataforma Arduino"
 teacher = "Roberto Kenji Hiramatsu"
 description = "Neste minicurso será apresentado um passo a passo para desenvolvimento de aplicações. Também, será visto de forma prática alguns princípios para este desenvolvimento e as abordagens para sucesso do desenvolvimento nesta plataforma. Os tópicos práticos básicos abordados são entendimento de entrada/saídas digitais, comunicação serial entre Arduino e computador,  leituras analógicas e interfaceamento com Shields e Sensores."
 
+[[params.courses.list]]
+modalID = "curso8"
+icon = "fa-cubes"
+title = "Introdução a Microcomputadores"
+teacher = "Lucas Hartmann"
+description = "<b>1. Introdução:</b> Na introdução, será apresentado o hardware de um microprocessador e a metodologia de organização de código. <br /><b>2. Periféricos:</b> Apresentação e configuração de entradas e saídas (GPIO) de um microprocessador. <br /><b>3. Aplicação prática:</b> Apresentação e implementação de uma aplicação utilizando entradas e saídas de um microprocessador."
+
 # Portfolio modals
 [params.portfolio]
 headline = "Palestrantes"
