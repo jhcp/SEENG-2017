@@ -60,9 +60,9 @@ dateText = "Data"
 [[params.courses.list]]
 modalID = "curso1"
 icon = "fa-code"
-title = "Introdução à programação para projetos de Engenharia"
+title = "Técnicas de simulação para projetos de engenharia"
 teacher = "Igor Henrique Ferreira Moreno Pinheiro da Silva"
-description = "A definir."
+description = "Criação de variáveis, Tipos, Operações com matrizes, Controles de fluxo e laços, Funções úteis, Criação de funções, Gráficos, Aplicações."
 
 [[params.courses.list]]
 modalID = "curso2"
