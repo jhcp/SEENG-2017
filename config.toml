@@ -65,13 +65,6 @@ teacher = "Igor Henrique Ferreira Moreno Pinheiro da Silva"
 description = "Criação de variáveis, Tipos, Operações com matrizes, Controles de fluxo e laços, Funções úteis, Criação de funções, Gráficos, Aplicações."
 
 [[params.courses.list]]
-modalID = "curso2"
-icon = "fa-microchip"
-title = "Internet Of the Things"
-teacher = "Lucas Humenhuk"
-description = "A definir."
-
-[[params.courses.list]]
 modalID = "curso3"
 icon = "fa-envira"
 title = "Gestão e Certificação Ambiental Aplicada em Empreendimentos Comerciais"
