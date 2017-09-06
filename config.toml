@@ -114,6 +114,13 @@ title = "Gerenciamento de Projetos"
 teacher = "Daniel Fernandes e Carlos Figueirôa"
 description = "Apresentaremos os conceitos fundamentais de gerência de projetos, apresentaremos o cenário atual nesta área, as certificações e como o maior instituto de gerenciamento de projetos do mundo, o PMI, pode ajudar no desenvolvimento profissional. Também será realizado fórum de perguntas e respostas com questões envolvendo a tomada de decisões utilizando o gerenciamento de Projetos."
 
+[[params.courses.list]]
+modalID = "curso10"
+icon = "fa-pencil"
+title = "Introdução ao Revit"
+teacher = "Alcêu Câmara e Samuel Callou"
+description = "Neste minicurso, será abordado o Hands-On Revit em 4hs, onde o participante terá o primeiro contato com o Software e desenhará uma pequena edificação utilizando os principais comandos do programa. Desta forma, o aluno entenderá os princípios fundamentais do Revit."
+
 # Portfolio modals
 [params.portfolio]
 headline = "Palestrantes"
