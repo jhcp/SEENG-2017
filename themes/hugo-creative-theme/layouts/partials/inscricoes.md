@@ -26,7 +26,7 @@
 <br /><br />
 <p>Para se inscrever é preciso se cadastrar no sistema <a href="https://www.even3.com.br/seeng">Even 3</a>. Para inscrição como estudante é preciso submeter, no ato de inscrição, uma foto ou imagem escaneada do seu documento de estudante.</p>
 
-<a href="https://www.even3.com.br/seeng" class="btn btn-danger btn-xl wow tada">Inscreva-se</a>
+<a href="https://www.even3.com.br/seeng" class="btn btn-danger btn-xl wow tada">Inscreva-se</a> AVISO: A partir de 02 de outubro as inscrições só poderão ser feitas presencialmente.
   </div>
   </div>
 </div>
