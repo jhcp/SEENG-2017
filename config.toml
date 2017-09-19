@@ -52,7 +52,7 @@ subtitle   = ''
 
 # Service section
 [params.courses]
-headline = "Mini-cursos"
+headline = "Mini-cursos - vagas limitadas!"
 summaryText = "Resumo"
 teacherText = "Instrutor"
 dateText = "Data"
