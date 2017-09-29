@@ -12,11 +12,10 @@
             {{ partial "hero.html" . }}
         {{ end }}
 
-        {{ if .Site.Params.about }}
-            {{ partial "about.html" . }}
-        {{ end }}
+
 
           {{ partial "inscricoes.md" . }}
+          {{ partial "patrocinio.html" . }}
 
         {{ if .Site.Params.courses.list }}
             {{ partial "courses.html" . }}
@@ -34,6 +33,10 @@
 
         {{ if .Site.Params.aside }}
             {{ partial "aside.html" . }}
+        {{ end }}
+
+        {{ if .Site.Params.about }}
+            {{ partial "about.html" . }}
         {{ end }}
 
         {{ if .Site.Params.contact }}
