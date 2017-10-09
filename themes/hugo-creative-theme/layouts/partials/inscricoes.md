@@ -24,9 +24,7 @@
 </table>
 
 <br /><br />
-1) Os estudantes que se inscreveram pelo sistema precisam enviar (pelo próprio sistema) uma foto ou imagem escaneada do seu documento de estudante, se ainda não o fez.
-<br />
-2) Conforme aviso anterior, as novas inscrições serão feitas presencialmente, no prédio da <a href="www.uacsa.ufrpe.br" />Unidade Acadêmica do Cabo de Santo Agostinho</a>, Sala 704 - Carlos Monteiro.
+!! INSCRIÇÕES ENCERRADAS !!
 <br /><br />
   </div>
   </div>
